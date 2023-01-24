@@ -1,4 +1,4 @@
-package ca.tresearchgroup.skeleton.view;
+package tech.tresearchgroup.microservices.antivirus.view;
 
 import io.activej.http.HttpMethod;
 import io.activej.http.HttpResponse;
