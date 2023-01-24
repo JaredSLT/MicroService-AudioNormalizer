@@ -1,6 +1,6 @@
-package tech.tresearchgroup.microservices.antivirus;
+package tech.tresearchgroup.microservices.audionormalizer;
 
-import tech.tresearchgroup.microservices.antivirus.view.Endpoint;
+import tech.tresearchgroup.microservices.audionormalizer.view.Endpoint;
 import io.activej.http.AsyncServlet;
 import io.activej.http.RoutingServlet;
 import io.activej.inject.Injector;

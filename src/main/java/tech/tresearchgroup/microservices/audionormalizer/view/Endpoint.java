@@ -1,4 +1,4 @@
-package tech.tresearchgroup.microservices.antivirus.view;
+package tech.tresearchgroup.microservices.audionormalizer.view;
 
 import io.activej.http.HttpMethod;
 import io.activej.http.HttpResponse;
